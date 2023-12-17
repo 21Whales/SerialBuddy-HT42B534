@@ -1,6 +1,6 @@
 # SerialBuddy-HT42B534
 
-<!-- ![SerialBuddy-HT42B534 Logo](serialbuddy_logo.png) -->
+![SerialBuddy-HT42B534 Logo](SerialBuddy-HT42B534.png)
 
 ## Overview
 
